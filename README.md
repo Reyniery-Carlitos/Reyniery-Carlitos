@@ -1,6 +1,12 @@
 # ¡Hi! I'm Carlos Rubio 👋
 
-Frontend Jr. Developer <!-- from Tegucigalpa, Honduras 🇭🇳 . Passionate about web programming and creating applications using [ReactJs](https://es.reactjs.org/). --> 
+Frontend Jr. Developer from Tegucigalpa, Honduras 🇭🇳 . Passionate about web programming and creating applications using [ReactJs](https://es.reactjs.org/).
+
+🤖 I’m currently studying
+💯 I’m currently specializing in ReactJs
+💪 In my free time, I create **projects to practice my skills** (You can see them in my [Github](https://www.github.com/Reyniery-Carlitos/)) and improve mi english level. 
+⚡ My favorite hobbies are playing soccer ⚽️ and video games 🎮.
+
 <!--
 **Reyniery-Carlitos/Reyniery-Carlitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +33,7 @@ Application that generates phrases using the [Advice Slip](https://api.advicesli
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&color=%231C2833)
 ![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=CSS3&color=%231C2833)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=Javascript&color=%231C2833)
+![TypeScript](https://img.shields.io/badge/Typescript-E34F26?style=for-the-badge&logo=Typescript&color=%23231C2833)
 ![ReactJs](https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=React&color=%231C2833)
 ![React Router](https://img.shields.io/badge/React%20Router-E34F26?style=for-the-badge&logo=React-Router&color=%231C2833)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=Git&color=%231C2833)
