@@ -36,7 +36,7 @@ Application that generates phrases using the [Advice Slip](https://api.advicesli
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&color=%231C2833)
 ![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=CSS3&color=%231C2833)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=Javascript&color=%231C2833)
-![TypeScript](https://img.shields.io/badge/Typescript-E34F26?style=for-the-badge&logo=Typescript&color=%23231C2833)
+![TypeScript](https://img.shields.io/badge/Typescript-E34F26?style=for-the-badge&logo=Typescript&color=%231C2833)
 ![ReactJs](https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=React&color=%231C2833)
 ![React Router](https://img.shields.io/badge/React%20Router-E34F26?style=for-the-badge&logo=React-Router&color=%231C2833)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=Git&color=%231C2833)
