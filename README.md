@@ -1,6 +1,6 @@
 # ¡Hi! I'm Carlos Rubio 👋
 
-Frontend Jr. Developer from Tegucigalpa, Honduras. Passionate about web programming and creating applications using [ReactJs](https://es.reactjs.org/). 
+Frontend Jr. Developer from Tegucigalpa, Honduras🇭🇳 . Passionate about web programming and creating applications using [ReactJs](https://es.reactjs.org/). 
 <!--
 **Reyniery-Carlitos/Reyniery-Carlitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### ✍️  [Password Generator App](https://reyniery-carlitos.github.io/password-generator-app/)
 Application that generates passwords of length and characteristics defined by the user.
 
-###  🤓  [Advice Generator App](https://reyniery-carlitos.github.io/Advice-Generator-App/)
+### 🤝  [Advice Generator App](https://reyniery-carlitos.github.io/Advice-Generator-App/)
 Application that generates phrases using the [Advice Slip](https://api.adviceslip.com/) API.
 
 ## 🎯 Some technologies I use:
