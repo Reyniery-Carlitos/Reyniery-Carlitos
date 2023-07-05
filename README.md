@@ -3,8 +3,11 @@
 Frontend Jr. Developer from Tegucigalpa, Honduras 🇭🇳 . Passionate about web programming and creating applications using [ReactJs](https://es.reactjs.org/).
 
 🤖 I’m currently studying
+
 💯 I’m currently specializing in ReactJs
+
 💪 In my free time, I create **projects to practice my skills** (You can see them in my [Github](https://www.github.com/Reyniery-Carlitos/)) and improve mi english level. 
+
 ⚡ My favorite hobbies are playing soccer ⚽️ and video games 🎮.
 
 <!--
