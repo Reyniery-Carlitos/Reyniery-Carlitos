@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 Last Projects
-### [Password Generator App](https://reyniery-carlitos.github.io/password-generator-app/)
+### ✍️  [Password Generator App](https://reyniery-carlitos.github.io/password-generator-app/)
 Application that generates passwords of length and characteristics defined by the user.
 
 ## 🎯 Some technologies I use:
