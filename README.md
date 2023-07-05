@@ -1,6 +1,7 @@
 # ¡Hi! I'm Carlos Rubio 👋
 
-Frontend Jr. Developer from Tegucigalpa, Honduras 🇭🇳 . <!--Passionate about web programming and creating applications using [ReactJs](https://es.reactjs.org/). --> 
+## Frontend Jr. Developer 
+<!-- from Tegucigalpa, Honduras 🇭🇳 . Passionate about web programming and creating applications using [ReactJs](https://es.reactjs.org/). --> 
 <!--
 **Reyniery-Carlitos/Reyniery-Carlitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
