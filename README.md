@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### ✍️  [Password Generator App](https://reyniery-carlitos.github.io/password-generator-app/)
 Application that generates passwords of length and characteristics defined by the user.
 
-### ✍️  [Advice Generator App](https://reyniery-carlitos.github.io/Advice-Generator-App/)
+###  🤓  [Advice Generator App](https://reyniery-carlitos.github.io/Advice-Generator-App/)
 Application that generates phrases using the [Advice Slip](https://api.adviceslip.com/) API.
 
 ## 🎯 Some technologies I use:
