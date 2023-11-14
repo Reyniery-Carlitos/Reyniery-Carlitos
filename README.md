@@ -1,5 +1,4 @@
 # ¡Hi! I'm Carlos Rubio 👋
----
 
 Frontend Jr. Developer from Tegucigalpa, Honduras 🇭🇳 . Passionate about web programming and creating applications using [ReactJs](https://es.reactjs.org/).
 
