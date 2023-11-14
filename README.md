@@ -1,4 +1,5 @@
 # ¡Hi! I'm Carlos Rubio 👋
+---
 
 Frontend Jr. Developer from Tegucigalpa, Honduras 🇭🇳 . Passionate about web programming and creating applications using [ReactJs](https://es.reactjs.org/).
 
@@ -26,6 +27,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 Last Projects
+---
+
 ### ⚔️​ [Registration Backend Application (UNAH)](https://github.com/Reyniery-Carlitos/App-Registro-UNAH-Backend)
 UNAH student registration backend application in which an admission process, student registration to the system, academic planning administration, etc, etc, etc. can be carried out.
 
@@ -36,6 +39,8 @@ Application that generates passwords of length and characteristics defined by th
 Application that generates phrases using the [Advice Slip](https://api.adviceslip.com/) API.
 
 ## 🎯 Some technologies I use:
+---
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&color=%231C2833)
 ![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=CSS3&color=%231C2833)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=Javascript&color=%231C2833)
