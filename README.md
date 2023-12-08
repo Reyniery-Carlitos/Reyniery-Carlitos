@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 🚀 Last Projects
 ---
 
-### ⚔️​ [Currency converter app](https://github.com/Reyniery-Carlitos/Conversor-de-divisas.git)
+### ⚖️ [Currency converter app](https://github.com/Reyniery-Carlitos/Conversor-de-divisas.git)
 Currency Converter app developed in python.
 
 ### ⚔️​ [Registration Backend Application (UNAH)](https://github.com/Reyniery-Carlitos/App-Registro-UNAH-Backend)
