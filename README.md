@@ -55,4 +55,6 @@ Application that generates phrases using the [Advice Slip](https://api.advicesli
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-E34F26?style=for-the-badge&logo=Bootstrap&color=%231C2833)
 ![Tailwind Css](https://img.shields.io/badge/Tailwind-E34F26?style=for-the-badge&logo=Tailwind-css&color=%231C2833)
 ![Python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=Python&color=%231C2833)
+![ExpressJs](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=blue)
+
 
