@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 ## 🚀 Last Projects
 ---
 
+### [Wheater App](https://github.com/Reyniery-Carlitos/weather-app.git)
+weather forecast application by region.
+
 ### ⚖️ [Currency converter app](https://github.com/Reyniery-Carlitos/Conversor-de-divisas.git)
 Currency Converter app developed in python.
 
