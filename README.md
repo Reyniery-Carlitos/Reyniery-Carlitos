@@ -52,7 +52,7 @@ Application that generates phrases using the [Advice Slip](https://api.advicesli
 ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=Javascript&color=%231C2833)
 ![TypeScript](https://img.shields.io/badge/Typescript-E34F26?style=for-the-badge&logo=Typescript&color=%231C2833)
 ![ReactJs](https://img.shields.io/badge/React-E34F26?style=for-the-badge&logo=React&color=%231C2833)
-![Vuejs](https://img.shields.io/badge/vuejs-8A2BE2?style=for-the-badge&logo=vuedotjs&color=white)
+![Vuejs](https://img.shields.io/badge/vuejs-8A2BE2?style=for-the-badge&logo=vuedotjs&color=%231C2833)
 ![React Router](https://img.shields.io/badge/React%20Router-E34F26?style=for-the-badge&logo=React-Router&color=%231C2833)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=Git&color=%231C2833)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-E34F26?style=for-the-badge&logo=Styled%20components&color=%231C2833)
