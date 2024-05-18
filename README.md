@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Last Projects
 ---
-### ☀️​ [Rock, Papper, Scissor Game](https://github.com/Reyniery-Carlitos/rock-papper-scissor)
+### 🎮​ [Rock, Papper, Scissor Game](https://github.com/Reyniery-Carlitos/rock-papper-scissor)
 Rock papper scissor game with extra options like spock and lizard.
 
 ### ☀️​ [Wheater App](https://github.com/Reyniery-Carlitos/weather-app.git)
