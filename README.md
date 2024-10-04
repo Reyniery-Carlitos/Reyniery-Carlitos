@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Last Projects
 ---
+### 🗿 [Pokedex](https://github.com/Reyniery-Carlitos/Pokedex)
+Pokedex app.
+
 ### 🎮​ [Rock, Papper, Scissor Game](https://github.com/Reyniery-Carlitos/rock-papper-scissor)
 Rock papper scissor game with extra options like spock and lizard.
 
